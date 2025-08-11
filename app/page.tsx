@@ -151,27 +151,30 @@ About Me:<br />
             </div>
 
             <div className="bg-[#552828] h-100 rounded-2xl">
-              <video
-                  src="/videos/javaPBL.mp4"
-                  className="w-full h-full"
-                  autoPlay
-                  loop
-                  muted
-                  playsInline
-                />
-                    <h3>Projeto Biblioteca integrado com JAVA </h3>
-          
+              <a href="https://github.com/vitoriatanan/BibliotecaRegia" target="_blank">
+                        <video
+                            src="/videos/javaPBL.mp4"
+                            className="w-full h-full"
+                            autoPlay
+                            loop
+                            muted
+                            playsInline
+                          />
+                              <h3>Projeto Biblioteca integrado com JAVA </h3>
+              </a>
             </div>
             <div className="bg-[#1d4a20] h-64 w-[1245px] rounded-2xl">
-            <video
-                  src="/videos/pythonIA.mp4"
-                  className="w-full h-full"
-                  autoPlay
-                  loop
-                  muted
-                  playsInline
-                />
-                    <h3>Projeto Flappy Bird integrado com IA </h3>
+              <a href="https://github.com/maatheusantanadev/FlappyBird_IA" target="_blank">
+                      <video
+                            src="/videos/pythonIA.mp4"
+                            className="w-full h-full"
+                            autoPlay
+                            loop
+                            muted
+                            playsInline
+                          />
+                              <h3>Projeto Flappy Bird integrado com IA </h3>
+              </a>
             </div>
           </div>
         </div>
