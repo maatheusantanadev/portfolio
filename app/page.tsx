@@ -65,11 +65,11 @@ export default function Home() {
         <div className="md:w-1/2 mt-12 md:mt-0">
           <div className="relative w-full h-[400px] md:h-[500px]">
             <Image
-               src="/imagens/perfil1.svg"
+               src="/imagens/Frame.svg"
               alt="Developer illustration"
-              width={200}
-              height={500}
-              className="mx-auto rounded-full"
+              width={500}
+              height={800}
+              className="mx-auto"
             />
           </div>
         </div>
