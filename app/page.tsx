@@ -80,7 +80,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <div className="mb-8">
             <Image
-              src="/imagens/perfil1.svg"
+              src="/imagens/minha_foto.svg"
               alt="Matheus Santana"
               width={150}
               height={150}
